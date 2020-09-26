@@ -9,7 +9,7 @@ After the verdict of Breonna Taylor many addressed their concerns via the media.
 ### Technologies Used:
 - Python 3
 - Pandas
-- Tableau : https://public.tableau.com/profile/orion.ford#!/vizhome/202020VOnlineTransactions/202020VOnlineTransactionsReport
+- Tableau
 - Jupyter Notebook
 
 
