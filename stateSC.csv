@@ -1,0 +1,87 @@
+,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+146,186,Chazsten Freeman,2015-02-28,shot,gun,24.0,M,W,Pelzer,SC,False,attack,Not fleeing,False
+226,240,Jeremy Lorenza Kelly,2015-03-25,shot,gun,27.0,M,B,Johnsonville,SC,False,attack,Foot,False
+255,297,Walter Scott,2015-04-04,shot and Tasered,unarmed,50.0,M,B,North Charleston,SC,False,other,Foot,False
+269,343,Phillip Burgess,2015-04-09,shot,gun,28.0,M,W,Boiling Springs,SC,False,attack,Not fleeing,False
+281,366,Dante Noble,2015-04-15,shot,knife,41.0,M,B,Spartanburg,SC,False,attack,Not fleeing,False
+296,398,Kimber Key,2015-04-21,shot,knife,59.0,M,W,Irmo,SC,True,other,Not fleeing,False
+372,484,James Anthony Cooper,2015-05-21,shot,knife,43.0,M,W,North Charleston,SC,False,attack,Not fleeing,False
+374,487,Jerome Caldwell,2015-05-21,shot,gun,32.0,M,B,Charleston,SC,False,attack,Not fleeing,False
+389,488,Darrell Morgan,2015-05-28,shot,gun,60.0,M,W,Lancaster,SC,False,attack,Not fleeing,False
+545,671,Brian Stortzum,2015-07-23,shot,gun,32.0,M,W,Myrtle Beach,SC,False,attack,Not fleeing,False
+556,680,Zachary Hammond,2015-07-26,shot,,19.0,M,W,Seneca,SC,False,other,Other,False
+557,681,Timothy Milliken,2015-07-27,shot,knife,56.0,M,W,Irmo,SC,False,attack,Not fleeing,False
+593,719,Shamir Terrel Palmer,2015-08-08,shot,gun,24.0,M,B,Summerville,SC,False,attack,Car,False
+767,901,Bernard Brandon Powers,2015-10-11,shot,gun,23.0,M,B,Taylors,SC,False,attack,Not fleeing,False
+841,987,Laura Lemieux,2015-11-05,shot,gun,36.0,F,W,Goose Creek,SC,True,attack,Not fleeing,False
+845,989,Delvin Simmons,2015-11-09,shot,,20.0,M,B,Spartanburg,SC,False,attack,Car,False
+856,999,Brian Gavin,2015-11-11,shot,gun,57.0,M,W,Aiken,SC,False,attack,Not fleeing,False
+870,1011,Demetrius Bryant,2015-11-17,shot,gun,21.0,M,B,Cayce,SC,False,attack,Not fleeing,False
+930,1072,Charles Edward Rosemond,2015-12-10,shot,gun,55.0,M,B,Taylors,SC,False,attack,Not fleeing,False
+1055,1207,John Wesley Smith,2016-01-27,shot,knife,27.0,M,W,Latta,SC,False,other,Not fleeing,False
+1236,1414,Donald Andrew White,2016-03-26,shot,gun,55.0,M,W,Myrtle Beach,SC,False,attack,Not fleeing,True
+1243,1421,Robert Morgan Garrison Jr.,2016-03-29,shot,gun,51.0,M,W,Piedmont,SC,True,attack,Not fleeing,False
+1328,1842,Reginald Darnell Dogan,2016-05-02,shot,gun,52.0,M,B,Greenville,SC,False,attack,Not fleeing,False
+1370,1552,Norman Campbell,2016-05-21,shot,gun,63.0,M,W,Chesterfield County,SC,False,attack,Not fleeing,False
+1451,1632,Raufeal M. Bostick,2016-06-20,shot,gun,23.0,M,B,Hardeeville,SC,False,attack,Not fleeing,False
+1492,1686,Alexis George Mishtowt,2016-07-01,shot,gun,63.0,M,W,Landrum,SC,False,attack,Not fleeing,True
+1500,1679,William Tracy Patterson,2016-07-04,shot,gun,34.0,M,W,North Charleston,SC,False,attack,Not fleeing,True
+1565,1751,Bryan N. Byrd,2016-08-01,shot,,43.0,M,W,Edmund,SC,False,attack,Car,False
+1568,1754,Richard Lance London,2016-08-02,shot,gun,22.0,M,W,Lake City,SC,False,attack,Car,False
+1586,1833,James W. Jennings,2016-08-08,shot,gun,69.0,M,W,Little Mountain,SC,True,attack,Not fleeing,False
+1589,1777,Jeffrey Allen Morris,2016-08-09,shot,undetermined,44.0,M,W,Piedmont,SC,False,other,Not fleeing,False
+1720,1928,Douglas Marrickus Rainey,2016-09-30,shot,gun,32.0,M,B,Campobello,SC,False,attack,Foot,False
+1734,1939,Lucas M. Felkel,2016-10-05,shot,gun,35.0,M,W,Moncks Corner,SC,False,attack,Car,False
+1814,2018,Joel B. Keenan,2016-11-06,shot,gun,43.0,M,W,Aiken,SC,True,attack,Not fleeing,False
+1876,2090,Alexander Chance Partain,2016-11-29,shot,undetermined,31.0,M,W,Iva,SC,False,other,Foot,False
+1900,2113,Waltki Williams,2016-12-10,shot,gun,35.0,M,B,Sumter,SC,False,attack,Foot,True
+2089,2318,Jason Robert Mendez,2017-02-11,shot,gun,37.0,M,W,Greenville,SC,False,other,Not fleeing,False
+2157,2400,Joseph Scott Inabinet,2017-03-04,shot,gun,50.0,M,W,Fountain Inn,SC,True,attack,Not fleeing,False
+2226,2478,Jose Antonio Hernandez,2017-04-03,shot and Tasered,gun,46.0,M,H,Pendleton,SC,True,other,Not fleeing,True
+2260,2517,Jose Trejo,2017-04-20,shot,gun,26.0,M,H,Hardeeville,SC,False,attack,Not fleeing,False
+2310,2566,John Bittle,2017-05-09,shot,unarmed,39.0,M,W,Lexington,SC,False,other,Foot,False
+2434,2692,Lawrence Heyward Jr.,2017-06-25,shot,gun,56.0,M,B,North Charleston,SC,False,undetermined,Foot,False
+2491,2772,James Gerald Davis,2017-07-12,shot,undetermined,40.0,M,W,Lake View,SC,True,other,Not fleeing,False
+2554,2835,Aaron Payne,2017-08-04,shot,gun,33.0,M,W,Surfside Beach,SC,True,attack,Not fleeing,False
+2632,2941,Jarvis Hayes,2017-09-03,shot,,31.0,M,B,Myrtle Beach,SC,False,attack,Car,False
+2736,3039,James Michael Chappell,2017-10-16,shot,gun,32.0,M,W,Simpsonville,SC,False,attack,Not fleeing,False
+2841,3148,Jacob McCarty,2017-11-19,shot,gun,27.0,M,W,Greenville County,SC,False,attack,Car,False
+2864,3173,Trent Fondren,2017-12-01,shot,knife,33.0,M,W,York,SC,False,undetermined,,True
+2976,3304,Justin Coy Adkins,2018-01-11,shot,gun,44.0,M,W,Lexington County,SC,False,attack,Car,False
+3117,3448,Dustin James Case,2018-02-27,shot,gun,20.0,M,W,Chester,SC,False,other,Car,True
+3187,3515,Jermaine Massey,2018-03-19,shot and Tasered,knife,35.0,M,B,Greenville,SC,False,other,Not fleeing,True
+3221,3549,Robert B. Shaw,2018-03-28,shot,gun,29.0,M,W,Swansea,SC,True,other,Car,False
+3527,3858,Jethro Benjamin,2018-07-14,shot,gun,68.0,M,B,Florence,SC,False,attack,Not fleeing,False
+3637,3987,Jeffery Paul Fabio,2018-08-24,shot,crossbow,44.0,M,W,Enoree,SC,True,attack,Not fleeing,False
+3643,3996,Stephanie B. Owens,2018-08-26,shot,gun,41.0,F,W,Blacksburg,SC,True,attack,Not fleeing,False
+3705,4067,Joseph Dawson,2018-09-28,shot,gun,24.0,M,W,Johns Island,SC,False,attack,Not fleeing,False
+3763,4132,Kimberly Norris,2018-10-20,shot,gun,34.0,F,W,Darlington County,SC,False,attack,Not fleeing,True
+3798,4163,Anovath Troy Kongvongxay,2018-11-05,shot,ax,48.0,M,A,Camp Croft,SC,True,attack,Not fleeing,False
+3822,4234,John David Manning,2018-11-14,shot,knife,29.0,M,W,Spartanburg,SC,False,attack,Not fleeing,False
+3901,4321,April Webster,2018-12-16,shot,knife,47.0,F,B,Darlington County,SC,True,other,Not fleeing,False
+3950,4356,Harold Thompson,2019-01-05,shot,gun,81.0,M,,Union County,SC,False,attack,Not fleeing,False
+4055,4445,Willie Jermaine Robinson,2019-02-10,shot,gun,34.0,M,B,Greenville County,SC,True,attack,Not fleeing,True
+4094,4497,Joseph Hart,2019-02-26,shot,gun,51.0,M,,Huger,SC,False,attack,Not fleeing,False
+4165,4595,Derek Smith,2019-03-22,shot,knife,22.0,M,B,Walterboro,SC,False,other,Not fleeing,False
+4170,4603,Brandon Coty Elliott,2019-03-25,shot,gun,30.0,M,W,Horry County,SC,True,other,Foot,False
+4196,4617,Zachary Kinard,2019-04-03,shot,gun,,M,W,Pelion,SC,False,other,Car,False
+4228,4641,Chadwick Dale Martin,2019-04-16,shot,vehicle,24.0,M,W,Fountain Inn,SC,False,attack,Car,False
+4312,5422,David Marcus Reece,2019-05-22,shot,gun,47.0,M,W,Inman,SC,False,attack,Not fleeing,False
+4406,4817,Benjamin Ray Smith,2019-06-27,shot,undetermined,54.0,M,B,Orangeburg,SC,False,undetermined,,False
+4487,4901,Donald Williams Allamong,2019-07-26,shot,gun,56.0,M,W,Sun City,SC,True,other,Not fleeing,False
+4540,4946,Thomas Michael Reynolds,2019-08-14,shot,gun,37.0,M,,Belton,SC,False,other,Not fleeing,False
+4648,5053,Daryl Strickland,2019-09-25,shot,gun,64.0,M,W,Hartsville,SC,False,attack,Not fleeing,False
+4651,5054,Chad Willis Huggins,2019-09-26,shot,gun,28.0,M,W,Lexington County,SC,False,attack,Other,False
+4687,5091,Matthew Graham,2019-10-12,shot,gun,32.0,M,,Myrtle Beach,SC,False,attack,Not fleeing,True
+4712,5218,Ricky Leonard Harris,2019-10-19,shot,gun,61.0,M,,Easley,SC,False,attack,Not fleeing,False
+4781,5187,Daniel Thomas Childers,2019-11-09,shot and Tasered,knife,28.0,M,W,Union County,SC,False,other,Not fleeing,False
+4813,5209,Ariane Lamont McCree,2019-11-23,shot,gun,28.0,M,B,Chester,SC,False,attack,Foot,False
+4856,5269,Kreed Cornell Bateman,2019-12-10,shot,gun,31.0,M,B,Andrews,SC,False,attack,,False
+5015,5435,Aaron T. Booker,2020-01-27,shot,gun,22.0,M,B,Aiken,SC,False,attack,Not fleeing,False
+5086,5572,Terry Hasty,2020-02-25,shot,gun,56.0,M,,Sumter County,SC,False,attack,Not fleeing,False
+5093,5603,Terry Hasty,2020-02-25,shot,gun,56.0,M,,Dalzell,SC,False,attack,Not fleeing,False
+5222,5733,Joshua Dariandre Ruffin,2020-04-08,shot,gun,17.0,M,B,Columbia,SC,False,other,Foot,False
+5247,5750,Marcus Eugene Epps,2020-04-17,shot,knife,43.0,M,W,Anderson,SC,False,attack,,False
+5255,5759,Elmer L. Mack,2020-04-22,shot,gun,40.0,M,B,Florence,SC,False,attack,Not fleeing,False
+5310,5799,Ward Benjamin McClain,2020-05-09,shot,gun,25.0,M,,Greenville,SC,False,attack,Foot,False
+5318,5829,Roy Ogden,2020-05-15,shot,gun,65.0,M,,Ladson,SC,False,attack,Car,False

@@ -1,0 +1,6 @@
+,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+118,130,Betty Sexton,2015-02-17,shot,gun,43.0,F,W,Gaston County,NC,False,attack,Not fleeing,False
+123,163,Janisha Fonville,2015-02-18,shot,undetermined,20.0,F,B,Charlotte,NC,True,other,Not fleeing,False
+1309,1489,Kay Frances Campbell,2016-04-25,shot,gun,60.0,F,W,East Flat Rock,NC,True,attack,Not fleeing,False
+2478,2760,Tina Medlin,2017-07-08,shot,gun,50.0,F,W,Newton Grove,NC,False,attack,Not fleeing,False
+4257,4690,April Robertson,2019-04-30,shot,knife,45.0,F,W,Welcome,NC,False,other,Not fleeing,False

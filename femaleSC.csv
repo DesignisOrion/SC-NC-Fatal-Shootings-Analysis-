@@ -1,0 +1,5 @@
+,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+841,987,Laura Lemieux,2015-11-05,shot,gun,36.0,F,W,Goose Creek,SC,True,attack,Not fleeing,False
+3643,3996,Stephanie B. Owens,2018-08-26,shot,gun,41.0,F,W,Blacksburg,SC,True,attack,Not fleeing,False
+3763,4132,Kimberly Norris,2018-10-20,shot,gun,34.0,F,W,Darlington County,SC,False,attack,Not fleeing,True
+3901,4321,April Webster,2018-12-16,shot,knife,47.0,F,B,Darlington County,SC,True,other,Not fleeing,False

@@ -1,0 +1,156 @@
+,id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+92,554,James Allen,2015-02-07,shot,gun,74.0,M,B,Gastonia,NC,False,attack,Not fleeing,False
+118,130,Betty Sexton,2015-02-17,shot,gun,43.0,F,W,Gaston County,NC,False,attack,Not fleeing,False
+123,163,Janisha Fonville,2015-02-18,shot,undetermined,20.0,F,B,Charlotte,NC,True,other,Not fleeing,False
+150,191,Ian Sherrod,2015-02-28,shot,gun,40.0,M,B,Tarboro,NC,True,attack,Car,False
+172,274,Lester Brown,2015-03-09,shot,gun,58.0,M,W,Brevard,NC,False,attack,Not fleeing,False
+196,213,William Dean Poole,2015-03-16,shot,gun,52.0,M,W,Gastonia,NC,True,attack,Not fleeing,False
+198,217,Declan Owen,2015-03-17,shot,gun,24.0,M,W,Dublin,NC,False,attack,Foot,False
+276,362,Jason Lee Evans,2015-04-12,shot,gun,32.0,M,W,Salemburg,NC,True,attack,Car,False
+339,432,David William Johnson,2015-05-06,shot,gun,18.0,M,W,Wake Forest,NC,False,attack,Car,False
+448,566,James Monroe Barrett,2015-06-22,shot,gun,60.0,M,W,Ronda,NC,False,attack,Foot,False
+464,586,Clay Alan  Lickteig,2015-06-30,shot,gun,52.0,M,W,Franklin,NC,False,attack,Not fleeing,False
+497,621,Dallas Shatley,2015-07-08,shot,,62.0,M,W,Ashe County,NC,False,attack,Car,True
+550,675,Lee Aaron Gerston,2015-07-24,shot and Tasered,knife,30.0,M,W,Pinnacle,NC,False,other,Not fleeing,False
+590,720,Tsombe Clark,2015-08-07,shot,gun,25.0,M,B,Greenville,NC,False,attack,Not fleeing,False
+594,722,Jeffrey Clyde Wilkes,2015-08-08,shot,gun,59.0,M,W,Gastonia,NC,False,attack,Not fleeing,False
+624,754,Wade Allen Baker,2015-08-19,shot,gun,44.0,M,W,Canton,NC,True,attack,Not fleeing,False
+630,761,Alan Joseph Rushton,2015-08-21,shot,knife,38.0,M,W,Wake Forest,NC,False,other,Not fleeing,False
+640,772,Bobby Troledge Norris,2015-08-23,shot,gun,53.0,M,B,Archdale,NC,False,attack,Not fleeing,False
+673,805,La'vante Trevon Biggs,2015-09-05,shot,toy weapon,21.0,M,B,Durham,NC,True,attack,Not fleeing,False
+844,992,Kim Lee Long,2015-11-06,shot,undetermined,48.0,M,W,Wadesboro,NC,False,undetermined,Not fleeing,False
+866,1004,John David Livingston,2015-11-15,shot and Tasered,Taser,32.0,M,W,Spring Lake,NC,False,attack,Not fleeing,False
+953,1096,Ronnie Dubose Carter,2015-12-15,shot,,51.0,M,B,Dallas,NC,False,attack,Car,False
+998,1140,Germonta Wallace,2016-01-03,shot,gun,30.0,M,B,Charlotte,NC,False,attack,Not fleeing,False
+1003,1147,Carlton Antonio Murphy,2016-01-05,shot,gun,33.0,M,B,Charlotte,NC,False,attack,Not fleeing,False
+1043,1187,Samuel Grady,2016-01-19,shot,knife,55.0,M,W,Statesville,NC,True,other,Not fleeing,False
+1088,1248,Vinson Ray Strickland,2016-02-05,shot,gun,51.0,M,W,Union Grove,NC,False,attack,Foot,False
+1104,1258,Alijah Jackson,2016-02-11,shot,knife,35.0,M,W,Maiden,NC,True,other,Not fleeing,False
+1160,1327,Akiel Denkins,2016-02-29,shot,gun,24.0,M,B,Raleigh,NC,False,attack,Foot,False
+1189,1476,Christopher Michael Tokazowski,2016-03-12,shot,gun,43.0,M,W,Greensboro,NC,True,attack,Not fleeing,True
+1205,1374,Dennis Penny,2016-03-16,shot,gun,40.0,M,W,Anson County,NC,True,attack,Not fleeing,False
+1241,1418,Deriante Deon Miller,2016-03-27,shot,gun,18.0,M,B,Kinston,NC,False,other,Not fleeing,False
+1296,1474,Sylasone Ackhavong,2016-04-19,shot,gun,41.0,M,A,Charlotte,NC,True,attack,Not fleeing,False
+1309,1489,Kay Frances Campbell,2016-04-25,shot,gun,60.0,F,W,East Flat Rock,NC,True,attack,Not fleeing,False
+1395,1578,John Mark Coffey,2016-05-29,shot,gun,53.0,M,W,Clinton,NC,False,attack,Not fleeing,True
+1396,1579,Todd Brent Burroughs,2016-05-29,shot and Tasered,unarmed,38.0,M,W,Stoneville,NC,False,other,Car,False
+1404,1589,Rodney Rodriguez Smith,2016-06-02,shot,gun,18.0,M,B,Charlotte,NC,False,other,Not fleeing,True
+1423,1611,Clayton Millsaps,2016-06-10,shot,baseball bat,29.0,M,W,Iredell County,NC,False,other,Not fleeing,False
+1455,1643,Pedro Cruz-Amado,2016-06-21,shot,chair,24.0,M,H,Lawndale,NC,True,attack,Not fleeing,False
+1495,1682,Jai Lateef Solveig Williams,2016-07-02,shot,gun,35.0,M,B,Asheville,NC,False,other,Car,False
+1525,1713,Bobby Horne,2016-07-15,shot,gun,63.0,M,W,Peachland,NC,True,attack,Not fleeing,False
+1560,1834,Melvin Faison,2016-07-29,shot,gun,59.0,M,W,Pleasant Hill,NC,False,attack,Not fleeing,False
+1584,1773,James Eugene Burgess,2016-08-08,shot,gun,64.0,M,W,Wilkesboro,NC,False,attack,Not fleeing,False
+1602,1789,Carl Nivens,2016-08-16,shot,gun,32.0,M,W,Lenoir,NC,False,attack,Foot,True
+1610,1796,Daniel Kevin Harris,2016-08-18,shot,unarmed,29.0,M,W,Charlotte,NC,False,other,Car,True
+1636,1823,Jaqwan Julius Terry,2016-08-29,shot,gun,24.0,M,B,Raleigh,NC,False,attack,Foot,False
+1692,1896,William Joseph Ryan,2016-09-17,shot,gun,55.0,M,W,Rutherfordton,NC,True,attack,Not fleeing,False
+1701,1904,Keith Lamont Scott,2016-09-20,shot,gun,43.0,M,B,Charlotte,NC,False,other,Not fleeing,True
+1746,1949,Dennis Hunt,2016-10-10,shot,gun,50.0,M,,Lumberton,NC,False,other,Not fleeing,False
+1804,2011,Ferguson Laurent,2016-11-03,shot,gun,23.0,M,B,Salisbury,NC,False,attack,Not fleeing,False
+1857,2067,Frank Nathaniel Clark,2016-11-22,shot,undetermined,34.0,M,B,Durham,NC,False,undetermined,Not fleeing,False
+1872,2086,Irecas Valentine,2016-11-28,shot,,41.0,M,B,Hickory,NC,False,other,Car,False
+1895,2107,Mark Anthony Hicks,2016-12-07,shot and Tasered,knife,31.0,M,B,Fayetteville,NC,False,other,Not fleeing,True
+1898,2119,Brent Quinn,2016-12-09,shot,gun,,M,W,Leland,NC,False,attack,Not fleeing,False
+1920,2131,Roy Minton,2016-12-19,shot,undetermined,52.0,M,W,Granite Falls,NC,False,undetermined,Not fleeing,False
+1936,2158,Daquan Antonio Westbrook,2016-12-24,shot,gun,18.0,M,B,Charlotte,NC,False,undetermined,Not fleeing,False
+2032,2265,Josue Javier Diaz,2017-01-26,shot,gun,28.0,M,H,Charlotte,NC,False,other,Car,False
+2055,2289,William David Whetstone,2017-02-03,shot,gun,33.0,M,W,Hickory,NC,False,attack,Not fleeing,True
+2056,2294,Jamake Cason Thomas,2017-02-03,shot,gun,22.0,M,B,Rowland,NC,False,attack,Car,False
+2086,2331,Carlos Keith Blackman,2017-02-10,shot,gun,25.0,M,B,Greensboro,NC,False,attack,Other,True
+2094,2329,Willard Eugene Scott,2017-02-12,shot,gun,31.0,M,B,Durham,NC,False,other,Other,False
+2102,2342,Kenneth Lee Bailey,2017-02-15,shot,gun,24.0,M,B,Durham,NC,False,attack,Foot,False
+2114,2352,Keo Crockett,2017-02-18,shot,gun,46.0,M,B,Efland,NC,False,attack,Not fleeing,False
+2143,2378,Joey J. Bridges,2017-02-27,shot,gun,27.0,M,W,Shelby,NC,True,attack,Foot,False
+2164,2409,Iaroslav Mosiiuk,2017-03-08,shot,gun,25.0,M,W,Charlotte,NC,True,other,Not fleeing,False
+2186,2432,Patrick Earl Gatson,2017-03-16,shot and Tasered,gun,32.0,M,B,Fayetteville,NC,False,attack,Not fleeing,False
+2357,2610,Shaquian Tyrone Johnson,2017-05-28,shot,gun,22.0,M,B,Cary,NC,False,attack,Not fleeing,False
+2384,2645,Donald Smith,2017-06-07,shot,gun,75.0,M,W,Hudson,NC,True,attack,Not fleeing,False
+2478,2760,Tina Medlin,2017-07-08,shot,gun,50.0,F,W,Newton Grove,NC,False,attack,Not fleeing,False
+2545,2830,Mikle Eugene Dixon,2017-08-01,shot,knife,42.0,M,W,Mt. Airy,NC,False,other,Not fleeing,False
+2594,2884,Jeffrey Jacobs,2017-08-21,shot,toy weapon,42.0,M,W,Morganton,NC,False,attack,Not fleeing,False
+2638,2931,Rueben Galindo,2017-09-06,shot,gun,29.0,M,H,Charlotte,NC,False,other,Not fleeing,False
+2646,2936,Joseph Charles Cook,2017-09-10,shot,gun,76.0,M,W,Huntersville,NC,False,attack,Not fleeing,False
+2663,2962,Joshua Stubbs,2017-09-19,shot,gun and knife,25.0,M,W,Monroe,NC,False,attack,Car,True
+2701,2999,Kevin Anthony Battaglia,2017-10-02,shot,gun,33.0,M,W,Parkton,NC,True,attack,Not fleeing,False
+2743,3047,Matthew Whitley,2017-10-19,shot,gun,26.0,M,W,Kings Mountain,NC,False,attack,Other,False
+2806,3118,Paul Jones,2017-11-09,shot,gun,25.0,M,B,Salisbury,NC,False,attack,Car,False
+2862,3172,Rufus Cedric Baker,2017-11-30,shot,gun,32.0,M,B,Hendersonville,NC,False,other,Foot,False
+2977,4242,Jonathan Bennett,2018-01-11,shot,gun,23.0,M,B,Charlotte,NC,False,attack,Not fleeing,False
+2985,3307,Joseph Hilton,2018-01-13,shot,gun,42.0,M,W,Huntersville,NC,True,other,Not fleeing,True
+3050,3377,Charlie Shoupe,2018-02-02,shot,knife,27.0,M,W,Charlotte,NC,True,other,Not fleeing,True
+3086,3418,Wesley Taylor,2018-02-15,shot,gun,58.0,M,W,Henderson,NC,False,attack,Not fleeing,False
+3165,3495,Brisco Tim Woodell,2018-03-12,shot,gun,61.0,M,W,Lexington,NC,False,attack,Not fleeing,False
+3178,3512,Bobby Lovin,2018-03-16,shot,ax,62.0,M,W,Burnsville,NC,False,other,,False
+3189,3519,Kent Earl Pittman,2018-03-20,shot,gun,56.0,M,W,Timberlake,NC,True,attack,Not fleeing,False
+3212,3548,Juan Carlos Romero,2018-03-27,shot,gun,41.0,M,H,Sanford,NC,False,attack,Not fleeing,True
+3227,3560,Edward Van McCrae,2018-03-30,shot,gun,60.0,M,B,Winston-Salem,NC,False,other,Not fleeing,False
+3235,3565,Brian Bellamy,2018-04-01,shot,knife,41.0,M,B,Greenville,NC,False,other,Not fleeing,False
+3276,3613,Chad Eric Montgomery,2018-04-11,shot,machete,39.0,M,W,Sparta,NC,False,other,Not fleeing,True
+3325,3654,Michael Scott Knibbs,2018-04-29,shot,gun,47.0,M,W,Franklin,NC,False,attack,Not fleeing,False
+3333,3660,Billy Carson Pike,2018-05-02,shot,gun,48.0,M,W,Liberty,NC,False,attack,Not fleeing,False
+3411,3726,Jerick Rasheem Gray,2018-05-31,shot,knife,42.0,M,B,Thomasville,NC,False,attack,Car,False
+3421,3740,Joshua Nash Bryant,2018-06-05,shot,gun,20.0,M,W,Wilmington,NC,True,other,Not fleeing,False
+3498,3930,Lemuel Bunn,2018-07-03,shot,knife,40.0,M,B,Fayetteville,NC,False,attack,Not fleeing,False
+3534,3942,Kerry Edwin Townsend,2018-07-17,shot,gun,51.0,M,W,Lenoir,NC,False,attack,Not fleeing,False
+3536,3869,Wesley Shelton,2018-07-18,shot,gun,33.0,M,W,Fletcher,NC,False,attack,Not fleeing,False
+3554,3881,Rosalio Hernandez Ortega,2018-07-23,shot,machete,33.0,M,H,Burlington,NC,True,other,Not fleeing,False
+3577,3904,Arthur Kenzie Garner,2018-07-28,shot,gun,33.0,M,W,Aberdeen,NC,False,attack,Not fleeing,False
+3610,3937,Shaun Jeffery Christy,2018-08-09,shot,gun,37.0,M,W,Durham,NC,True,attack,Not fleeing,True
+3647,3999,Sebastian Siney Chamale,2018-08-28,shot,undetermined,37.0,M,H,Tarboro,NC,False,other,Not fleeing,False
+3663,4018,Christopher Sage,2018-09-05,shot,gun,45.0,M,W,Jonesville,NC,False,attack,Not fleeing,False
+3667,4021,Brandon Joyner,2018-09-09,shot,gun,,M,B,Greenville,NC,False,attack,Not fleeing,False
+3764,4118,Cedric Pritchard,2018-10-21,shot,gun,,M,B,Washington,NC,False,other,Not fleeing,True
+3934,4334,Dylan Michael Smith,2019-01-01,shot,gun,26.0,M,W,Davidson County,NC,False,attack,Foot,False
+3935,4504,Brandon Lovell Webster,2019-01-01,shot,vehicle,28.0,M,B,Shallotte,NC,False,other,Car,False
+3993,4401,Danny Kelley,2019-01-16,shot,knife,32.0,M,W,Charlotte,NC,False,other,Foot,False
+4052,4447,Jonathan Ramirez,2019-02-09,shot,gun,28.0,M,H,Bailey,NC,False,other,Not fleeing,True
+4064,4479,Greg Alyn Carlson,2019-02-13,shot,gun,47.0,M,W,Apex,NC,False,attack,Not fleeing,False
+4104,4538,Larry Todd Hoover,2019-03-02,shot,sword,33.0,M,W,Mount Holly,NC,True,other,Not fleeing,False
+4132,4553,Phillip Wayne Outland,2019-03-10,shot,gun,44.0,M,W,Cofield,NC,False,attack,Not fleeing,False
+4164,4594,Bruce Puchel,2019-03-22,shot,gun,45.0,M,W,Ernul,NC,True,other,Not fleeing,False
+4168,4587,Danquirs Napoleon Franklin,2019-03-25,shot,gun,27.0,M,B,Charlotte,NC,True,other,Not fleeing,True
+4182,4610,Andrew John Mason,2019-03-30,shot,unarmed,22.0,M,W,Watuaga County,NC,False,attack,Not fleeing,False
+4183,4669,Ondrae Levado Hutchinson,2019-03-30,shot and Tasered,gun,30.0,M,B,Durham,NC,False,attack,Foot,True
+4235,4650,Soheil Antonio Mojarrad,2019-04-20,shot,knife,30.0,M,W,Raleigh,NC,False,attack,Not fleeing,False
+4245,4681,Stanley Edward Thompson,2019-04-25,shot,gun,51.0,M,W,Apex,NC,False,attack,,False
+4257,4690,April Robertson,2019-04-30,shot,knife,45.0,F,W,Welcome,NC,False,other,Not fleeing,False
+4306,4724,Carlos Javier Roman Santiago,2019-05-20,shot,knife,46.0,M,H,Archdale,NC,False,attack,Not fleeing,False
+4326,4758,Gerald Tremblay,2019-05-29,shot,gun,62.0,M,W,Wilmington,NC,True,attack,Not fleeing,False
+4346,4766,Scott Hedgecock,2019-06-05,shot,knife,54.0,M,W,Trinity,NC,True,attack,Not fleeing,False
+4446,4860,Sean Rambert,2019-07-09,shot,gun,23.0,M,B,Greenville,NC,False,attack,Not fleeing,False
+4505,4908,Delano Williams,2019-08-02,shot,gun,55.0,M,,Charlottte,NC,True,attack,Not fleeing,False
+4539,4983,Cole Steele Jessup,2019-08-13,shot,vehicle,20.0,M,W,Ramseur,NC,False,attack,Car,False
+4580,4997,TK TK,2019-08-31,shot,gun,,M,,Wake County,NC,False,attack,Foot,False
+4646,5068,Haywood Cannon,2019-09-24,shot,gun,67.0,M,W,Richlands,NC,False,attack,Car,False
+4647,5069,Ronald Michael McCrary,2019-09-24,shot,knife,63.0,M,,Sanford,NC,False,other,,False
+4695,5101,Victor Jarvis,2019-10-14,shot,gun,61.0,M,B,High Point,NC,False,attack,Not fleeing,False
+4697,5102,Dennis Patrick,2019-10-15,shot,gun,28.0,M,W,Jamestown,NC,True,attack,Not fleeing,False
+4727,5119,Michael Babcock,2019-10-24,shot,gun,53.0,M,W,Greenville,NC,False,other,Not fleeing,False
+4773,5170,Treva Smutherman,2019-11-06,shot,gun,31.0,M,B,Fayetteville,NC,False,attack,Not fleeing,False
+4778,5185,Ray Correll,2019-11-08,shot,gun,38.0,M,W,Lincolnton,NC,True,attack,Not fleeing,False
+4788,5195,Roy McAllister,2019-11-13,shot,undetermined,27.0,M,B,Wilson,NC,False,undetermined,Foot,False
+4793,5190,Treon McCoy,2019-11-15,shot,gun,33.0,M,B,Charlotte,NC,False,attack,Not fleeing,False
+4812,5225,Lance Edward Smith,2019-11-22,shot,gun,37.0,M,B,Elizabethtown,NC,False,attack,Not fleeing,False
+4882,5288,Kyle Horton,2019-12-17,shot,gun,,M,W,Wilmington,NC,False,attack,Not fleeing,False
+4891,5309,Kentrey Marquis Witherspoon,2019-12-19,shot,gun,28.0,M,B,Lenoir,NC,False,attack,Foot,False
+4895,5308,Steven DeWayne Haizlip,2019-12-20,shot,gun,61.0,M,B,Winston-Salem,NC,False,attack,Not fleeing,False
+4955,5351,Troy Chase Caster,2020-01-06,shot,gun,21.0,M,W,Asheboro,NC,False,attack,Car,False
+4981,5382,Landwell Vance McCall,2020-01-15,shot,gun,50.0,M,W,Fleetwood,NC,False,attack,Not fleeing,False
+5020,5441,Jaquyn Oneill Light,2020-01-29,shot,undetermined,20.0,M,B,Graham,NC,False,undetermined,Foot,False
+5025,5457,Keith Dutree Collins,2020-01-30,shot,gun,52.0,M,B,Raleigh,NC,False,attack,Foot,True
+5062,5537,Timothy Leroy Harrington,2020-02-14,shot,gun,58.0,M,W,Polkton,NC,False,other,Car,False
+5065,5548,Timothy Leroy Harrington,2020-02-14,shot,gun,58.0,M,W,Polkton,NC,False,attack,Car,False
+5082,5551,Boyce Melvin Thayer,2020-02-23,shot,gun,83.0,M,,Jamestown,NC,False,attack,Not fleeing,False
+5111,5584,Ian Austin Wilson,2020-03-01,shot,gun,31.0,M,W,Mocksville,NC,False,attack,,False
+5117,5612,Gary Lee Tierney,2020-03-04,shot,gun,73.0,M,,Fayetteville,NC,False,attack,Not fleeing,False
+5153,5624,Michael Brandon Potter,2020-03-15,shot,gun,38.0,M,W,High Point,NC,False,attack,,False
+5180,5686,Christopher Joel Mock,2020-03-24,shot,gun,45.0,M,W,WInston Salem,NC,False,attack,Car,False
+5185,5719,John Mark Hendrick,2020-03-26,shot,unarmed,32.0,M,W,Linwood,NC,False,other,Car,False
+5198,5702,Shane Tilman Kent,2020-03-31,shot,gun,29.0,M,W,Asheville,NC,False,attack,Not fleeing,False
+5238,5677,Tony Clements,2020-04-15,shot,gun,33.0,M,,Hubert,NC,False,attack,Not fleeing,False
+5260,5752,Timothy Darryl Slides,2020-04-24,shot,gun,28.0,M,,Lenoir,NC,False,attack,Not fleeing,True
+5283,5770,Kortney Shawn Price,2020-05-03,shot,gun,44.0,M,W,Caldwell County,NC,False,other,Car,True
+5298,5804,James Joseph James,2020-05-06,shot,knife,,M,,Graham,NC,False,attack,Car,False
+5308,5797,Jonathan Carter,2020-05-09,shot,undetermined,27.0,M,W,Calypso,NC,False,other,Not fleeing,False
+5314,5835,David Tylek Atkinson,2020-05-13,shot,gun,24.0,M,B,Raleigh,NC,False,attack,Foot,False
