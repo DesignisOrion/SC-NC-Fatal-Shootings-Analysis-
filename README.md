@@ -9,7 +9,7 @@ After the verdict of Breonna Taylor many addressed their concerns via the media.
 ### Technologies Used:
 - Python 3
 - Pandas
-- Tableau
+- Tableau : https://public.tableau.com/views/SouthAndNorthCarolinaFatalShootings/Dashboard1?:language=en&:display_count=y&:origin=viz_share_link
 - Jupyter Notebook
 
 
